@@ -4,10 +4,10 @@
 
  ✨ It's me, Prashant Yadav. ✨ 
  
-- 🔭 I’m currently working on Spotify Clone. 
-- 🌱 I’m currently learning Full-Stack-Development.
-- 👀 I’m currently pursuing Masters in Computer Application.
+- 🔭 Software Developer. 
 - 📫 Want to reach me? Email now, I am waiting!
+- 🌱 Whatsapp or Call: +919971731708
+- 📫 Email: prashanty795@gmail.com
 - 😄 Pronouns: Otorhinolaryngologist
 - ⚡ Fun fact: after pronouncing above word, you are smilling. I hope, you did well.
 
@@ -17,7 +17,7 @@ Contact me:
   <img align="left" alt="LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
 </a>
 
-<a href="mailto:tolearncs@gmail.com">
+<a href="mailto:prashanty795@gmail.com">
   <img align="left" alt="Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
 </a>
 
